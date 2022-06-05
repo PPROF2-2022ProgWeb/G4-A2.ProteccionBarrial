@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+=======
 
+>>>>>>> 92275adf8702c94a6259fc29d785da4c95139cfb
 (function() {
   'use strict';
   window.addEventListener('load', function() {
